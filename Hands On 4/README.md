@@ -23,7 +23,7 @@ El proyecto incluye la simulación paramétrica y visualización de rastros/tray
 
 Para compilar este proyecto, necesitas tener instalado el compilador de C++ y las dependencias de desarrollo de Raylib. 
 
-Si estás utilizando sistemas basados en paquetes RPM como Fedora, puedes instalar el entorno de desarrollo rápidamente con:
+Poniendo de ejemplo el sistema operativo trabajado:
 
 ```bash
 sudo dnf install gcc-c++ raylib-devel
